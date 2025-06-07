@@ -80,7 +80,8 @@ body {
       rgba(0, 0, 0, 0.4) 0%,
       rgba(0, 0, 0, 0.8) 100%
     ),
-    url("stranger-things.webp") center/cover;
+    url("https://wallpapercave.com/wp/wp5393502.jpg")
+      center/cover;
   display: flex;
   align-items: center;
   padding: 0 60px;
